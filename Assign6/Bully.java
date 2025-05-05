@@ -111,6 +111,7 @@ public class Bully {
                     System.out.println("Error in choice. Please try again.");
                     break;
             }
+            System.out.println("");
         }
     }
 }

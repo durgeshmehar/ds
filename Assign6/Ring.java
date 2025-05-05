@@ -126,6 +126,7 @@ public class Ring {
                     System.out.println("Error in choice. Please try again.");
                     break;
             }
+            System.out.println("");
         }
     }
 }
